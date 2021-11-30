@@ -91,6 +91,8 @@ color: rgb(65, 87, 30);
 font-family: 'Chakra Petch', sans-serif;
 border: 2px solid rgb(65, 87, 30);
 border-radius: 5px;
+margin-bottom:50px;
+margin-right:500px;
 }
 .btn:hover{
 color: #fff;
